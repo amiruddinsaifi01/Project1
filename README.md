@@ -1,7 +1,7 @@
 # Project1
 Analysis of Airbnb seattle datasets to understand the concept of CRISP-DM
 
-Table of Content
+Table of Content:
 
 1.Installation
 2.Project Motivation
