@@ -39,9 +39,9 @@ When are the prices the highest and where are they lowest?
 
 Which neighborhoods have got the best average ratings from the reviewers?
 
-how to find outlairs in a dataset
+how to find outlairs in a dataset?
 
-What are the most important factors influencing the price of an Airbnb listing?
+Is there a busy season?
 
 ** File Description:**
 
